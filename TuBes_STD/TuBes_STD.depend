@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1672026260 source:f:\std\tubes_std\main.cpp
+	<iostream>
+	"list_child.h"
+	"list_parent.h"
+	"list_relasi.h"
+
+1672026410 f:\std\tubes_std\list_child.h
+	<iostream>
+
+1672026366 f:\std\tubes_std\list_parent.h
+	<iostream>
+
+1672026305 f:\std\tubes_std\list_relasi.h
+	"list_relasi.h"
+	"list_child.h"
+	"list_parent.h"
+	<iostream>
+	<stdio.h>
+	<unistd.h>
+
+1672026609 source:f:\std\tubes_std\list_child.cpp
+	"list_child.h"
+
+1672026518 source:f:\std\tubes_std\list_parent.cpp
+	"list_parent.h"
+
+1672394553 source:f:\std\tubes_std\list_relasi.cpp
+	"list_relasi.h"
+
